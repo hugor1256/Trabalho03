@@ -2,6 +2,10 @@
 
 TOKEN DE ACESSO: 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
 
+OBS: professora seu acesso ao sistema ficou da sseguinte forma
+login: professora
+senha: professora
+
 Trabalho De prog. De dispositivos móveis
 Alunos: igmar flores, hugo rezende Aplicativo de controle de obra - construção civil.
 1. O aplciativo tera uma area de login para cada funcionario que é fornecido ao mesmo quando começar seus trabalhos na obra
