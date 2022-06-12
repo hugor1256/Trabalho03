@@ -4,7 +4,7 @@ TOKEN DE ACESSO: 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
 
 Trabalho De prog. De dispositivos móveis
 Alunos: igmar flores, hugo rezende Aplicativo de controle de obra - construção civil.
-1. O aplciativo tera uma area de login para cada funcionario, sendo armazenavel em um banco de usuarios que serao permitidos o  login 
+1. O aplciativo tera uma area de login para cada funcionario que é fornecido ao mesmo quando começar seus trabalhos na obra
 2. O aplicativo permite o cadastro da quantidade de funcionários que estão trabalhando na obra que são
 - Engenheiro da obra.
 - Arquiteto.
